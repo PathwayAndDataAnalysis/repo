@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.graphdrawing.graphml</groupId>
+  <artifactId>xmlns</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20111202220337</lastUpdated>
+  </versioning>
+</metadata>
