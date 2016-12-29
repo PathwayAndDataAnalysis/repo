@@ -1,3 +1,4 @@
+# From George Thomas
 MTOR	phosphorylates	RPTOR		S863;S696;T706;S877
 MTOR	phosphorylates	DEPTOR		S244;S265;S293;S299
 MTOR	phosphorylates	RPS6KB1		S371;T389;S411;T421;S424
@@ -5,7 +6,7 @@ MTOR	phosphorylates	DAP		S3;S51
 MTOR	phosphorylates	AKT1		S450;S473
 MTOR	phosphorylates	SGK1		S422
 MTOR	phosphorylates	PRKCA		S657
-MTOR	phosphorylates	ULK1		S757
+MTOR	phosphorylates	ULK1		S757;S758
 MTOR	phosphorylates	CLIP1		
 MTOR	phosphorylates	LPIN1		S106
 MTOR	phosphorylates	ATG13		
@@ -59,30 +60,6 @@ SGK1	phosphorylates	NEDD4L		S342;S448
 SGK1	phosphorylates	FOXO1		T24;S256;S319
 SGK1	phosphorylates	FOXO3		T32;S253;S315
 SGK1	phosphorylates	FOXO4		T32;S197;S262
-MTOR	phosphorylates	EIF4EBP1		T37;Y34;T41;T45;T46
-MTOR	phosphorylates	EIF4EBP2		Y34;T45;T46
-MTOR	phosphorylates	IRS2		S577
-MTOR	phosphorylates	MAF1		S60;S68;S75
-MTOR	phosphorylates	PDCD4		S76;S457
-MTOR	phosphorylates	RPS6KB1		S447;S452
-MTOR	phosphorylates	RPTOR		S863
-RPTOR	phosphorylates	EIF4EBP1		T37;Y34;T41;T45;T46
-RPTOR	phosphorylates	EIF4EBP2		Y34;T45;T46
-RPTOR	phosphorylates	IRS2		S577
-RPTOR	phosphorylates	MAF1		S60;S68;S75
-RPTOR	phosphorylates	PDCD4		S76;S457
-RPTOR	phosphorylates	RPS6KB1		S447;S452
-MTOR	phosphorylates	AKT1S1		T246
-MTOR	phosphorylates	AKT2		T451
-MTOR	phosphorylates	AKT3		S472;S476
-MTOR	phosphorylates	BAD		S99
-MTOR	phosphorylates	NDRG1		S330;S332;S333;S334
-MTOR	phosphorylates	NDRG2		S314;S318;T316;S324
-MTOR	phosphorylates	TBC1D4		S588;S591
-RICTOR	phosphorylates	AKT1S1		T246
-RICTOR	phosphorylates	AKT2		T451
-RICTOR	phosphorylates	AKT3		S472;S476
-RICTOR	phosphorylates	BAD		S99
-RICTOR	phosphorylates	NDRG1		S330;S332;S333;S334
-RICTOR	phosphorylates	NDRG2		S314;S318;T316;S324
-RICTOR	phosphorylates	TBC1D4		S588;S591
+
+# From PMC1190302
+TP53 downregulates-expression	MYC
