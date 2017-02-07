@@ -10,11 +10,12 @@ CSK	phosphorylates	HCK	Y410
 CSK	phosphorylates	LCK	Y393
 CSK	phosphorylates	BLK	Y388
 # Wrong PTEN -> PIP3 edge in NCI PID
-PTEN	phosphorylates	WASF2	Y750
+PTEN	phosphorylates	WASF2
 PTEN	phosphorylates	ABI1	
-PTEN	phosphorylates	AKT3	T305
-PTEN	phosphorylates	AKT2	T309
-PTEN	phosphorylates	SGK1	S422;T256
+PTEN	phosphorylates	AKT3
+PTEN	phosphorylates	AKT2
+PTEN	phosphorylates	SGK1
 PTEN	dephosphorylates	SOS1
-PTEN	phosphorylates	AKT1	T308;Y474;S473
-PTEN	phosphorylates	DOK1	Y398;Y362
+PTEN	phosphorylates	AKT1
+PTEN	phosphorylates	DOK1
+PTEN	phosphorylates	PDPK1
