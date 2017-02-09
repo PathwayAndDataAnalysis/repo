@@ -19,3 +19,11 @@ PTEN	dephosphorylates	SOS1
 PTEN	phosphorylates	AKT1
 PTEN	phosphorylates	DOK1
 PTEN	phosphorylates	PDPK1
+# Wrong AKT -| GSK3 edge from PANTHER
+AKT1	dephosphorylates	GSK3A
+AKT1	dephosphorylates	GSK3B
+AKT2	dephosphorylates	GSK3A
+AKT2	dephosphorylates	GSK3B
+AKT3	dephosphorylates	GSK3A
+AKT3	dephosphorylates	GSK3B
+
