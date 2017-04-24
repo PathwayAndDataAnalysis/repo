@@ -26,4 +26,11 @@ AKT2	dephosphorylates	GSK3A
 AKT2	dephosphorylates	GSK3B
 AKT3	dephosphorylates	GSK3A
 AKT3	dephosphorylates	GSK3B
+# TRANSFAC not making sense
+RB1	upregulates-expression	MYC
+# NCI PID artifact
+CCND1	dephosphorylates	RB1	S795
+CCND1	dephosphorylates	RB1	S795
+CDK4	dephosphorylates	RB1	S788
+CDK4	dephosphorylates	RB1	S788
 
