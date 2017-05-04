@@ -63,3 +63,10 @@ SGK1	phosphorylates	FOXO4		T32;S197;S262
 
 # From PMC1190302
 TP53 downregulates-expression	MYC
+
+# Derived from the mis-inference from http://pathwaycommons.org/pc2/TemplateReactionRegulation_242aeac72c88f3849d048a8a21ae18a7
+FOXO1	upregulates-expression	CDKN1A
+FOXO3	upregulates-expression	CDKN1A
+FOXO4	upregulates-expression	CDKN1A
+SMAD2	upregulates-expression	CDKN1A
+SMAD4	upregulates-expression	CDKN1A
