@@ -33,4 +33,6 @@ CCND1	dephosphorylates	RB1	S795
 CCND1	dephosphorylates	RB1	S795
 CDK4	dephosphorylates	RB1	S788
 CDK4	dephosphorylates	RB1	S788
-
+# Miss inference from NCI relation http://pathwaycommons.org/pc2/Control_ea2c65433240c436648f9f63b1633fe3
+GSK3B	dephosphorylates	CTNNB1
+AXIN1	dephosphorylates	CTNNB1
