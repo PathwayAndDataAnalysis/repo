@@ -18956,3 +18956,8 @@ PiHelper_DrugTarget_ID	HGNC_Symbol	Drug_Name	DataSources	References
 28693	APH1A	Z-LLNle-CHO	CancerRxGene	
 28694	PSENEN	Z-LLNle-CHO	CancerRxGene	
 28695	AURKB	ZM-447439	CancerRxGene	
+100001	CD274	Pembrolizumab	SMMART
+100002	JAK1	Ruxolotinib	SMMART
+100003	JAK2	Ruxolotinib	SMMART
+100004	PIK3CD	Idelalisib	SMMART
+100004	BCL2	Venetoclax	SMMART
