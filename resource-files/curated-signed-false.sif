@@ -43,3 +43,6 @@ FOXO3	downregulates-expression	CDKN1A
 FOXO4	downregulates-expression	CDKN1A
 SMAD2	downregulates-expression	CDKN1A
 SMAD4	downregulates-expression	CDKN1A
+# Wrong curation from http://pathwaycommons.org/pc2/Catalysis_91dec05bfb67c0d2276f1abaf14562fe
+MAPK1	dephosphorylates	SMAD2
+MAPK3	dephosphorylates	SMAD2
