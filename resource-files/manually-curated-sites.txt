@@ -36,20 +36,25 @@ ROCK1	S1333	-1
 ROCK1	T1334	-1
 ROCK1	T1337	-1
 ROCK1	S1341	-1
-# From PMC4853282
-TSC2	S664	-1
-# From https://www.ncbi.nlm.nih.gov/pubmed/11030334
-NFATC2	S110	-1
-NFATC2	S213	-1
-NFATC2	S217	-1
-NFATC2	S171	-1
-NFATC2	S172	-1
-NFATC2	S174	-1
-NFATC2	S175	-1
-NFATC2	S177	-1
-NFATC2	S180	-1
-NFATC2	S326	-1
-NFATC2	S280	-1
-NFATC2	S274	-1
-NFATC2	S268	-1
-NFATC2	S221	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/22327338?dopt=Abstract
+NCK1	Y105	-1
+# http://www.jbc.org/content/278/40/38495.long
+CBL	Y674	1
+# http://pathwaycommons.org/pc2/Catalysis_170c460a109773f017b39f7b402bf6d0
+GAB1	Y627	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2708738/
+KSR1	T274	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/17603046?dopt=Abstract
+PRKCD	S302	1
+PRKCD	Y313	1
+# http://pathwaycommons.org/pc2/ComplexAssembly_b4d6b0a5e6ed2b67745e64f0dfc2357c
+SHC1	Y349	1
+SHC1	Y350	1
+SHC1	Y427	1
+# https://www.ncbi.nlm.nih.gov/pubmed/22827337?dopt=Abstract
+SOS1	S1134	-1
+# PhosphoSitePlus web site says it is activating
+TEC	Y519	1
+# http://pathwaycommons.org/pc2/Catalysis_5b9709a641b3c761ecaa8142a1725209
+FCER1G	Y65	1
+FCER1G	Y76	1
