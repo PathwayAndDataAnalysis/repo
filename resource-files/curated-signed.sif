@@ -62,7 +62,7 @@ SGK1	phosphorylates	FOXO3		T32;S253;S315
 SGK1	phosphorylates	FOXO4		T32;S197;S262
 
 # From PMC1190302
-TP53 downregulates-expression	MYC
+TP53	downregulates-expression	MYC
 
 # Derived from the mis-inference from http://pathwaycommons.org/pc2/TemplateReactionRegulation_242aeac72c88f3849d048a8a21ae18a7
 FOXO1	upregulates-expression	CDKN1A
