@@ -70,3 +70,6 @@ FOXO3	upregulates-expression	CDKN1A
 FOXO4	upregulates-expression	CDKN1A
 SMAD2	upregulates-expression	CDKN1A
 SMAD4	upregulates-expression	CDKN1A
+
+# https://www.ncbi.nlm.nih.gov/pubmed/11381116
+PLCG2	phosphorylates	PRKCD	S302;Y313
