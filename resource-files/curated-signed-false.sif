@@ -11,7 +11,7 @@ CSK	phosphorylates	LCK	Y393
 CSK	phosphorylates	BLK	Y388
 # Wrong PTEN -> PIP3 edge in NCI PID
 PTEN	phosphorylates	WASF2
-PTEN	phosphorylates	ABI1	
+PTEN	phosphorylates	ABI1
 PTEN	phosphorylates	AKT3
 PTEN	phosphorylates	AKT2
 PTEN	phosphorylates	SGK1
@@ -29,10 +29,10 @@ AKT3	dephosphorylates	GSK3B
 # TRANSFAC not making sense
 RB1	upregulates-expression	MYC
 # NCI PID artifact
-CCND1	dephosphorylates	RB1	S795
-CCND1	dephosphorylates	RB1	S795
-CDK4	dephosphorylates	RB1	S788
-CDK4	dephosphorylates	RB1	S788
+CCND1	dephosphorylates	RB1		S795
+CCND1	dephosphorylates	RB1		S795
+CDK4	dephosphorylates	RB1		S788
+CDK4	dephosphorylates	RB1		S788
 # Miss inference from NCI relation http://pathwaycommons.org/pc2/Control_ea2c65433240c436648f9f63b1633fe3
 GSK3A	dephosphorylates	CTNNB1
 GSK3B	dephosphorylates	CTNNB1
