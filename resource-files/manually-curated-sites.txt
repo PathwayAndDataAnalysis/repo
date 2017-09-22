@@ -58,3 +58,31 @@ TEC	Y519	1
 # http://pathwaycommons.org/pc2/Catalysis_5b9709a641b3c761ecaa8142a1725209
 FCER1G	Y65	1
 FCER1G	Y76	1
+# http://pathwaycommons.org/pc2/Control_a5b201dba0cb5ec97f610e6079ab51ea
+NFATC2	S217	-1
+NFATC2	S221	-1
+NFATC2	S274	-1
+NFATC2	S180	-1
+NFATC2	S268	-1
+NFATC2	S171	-1
+NFATC2	S172	-1
+NFATC2	S175	-1
+NFATC2	S110	-1
+NFATC2	S177	-1
+NFATC2	S213	-1
+NFATC2	S174	-1
+NFATC2	S326	-1
+NFATC2	S276	-1
+#NFATC2	S56	1
+#NFATC2	S53	1
+#NFATC2	S243	1
+# http://pathwaycommons.org/pc2/Catalysis_061c1df92a38bcd021fba95e0dc802bd
+NFATC1	S299	-1
+NFATC1	S286	-1
+NFATC1	S290	-1
+NFATC1	S282	-1
+NFATC1	S233	-1
+NFATC1	S278	-1
+NFATC1	S237	-1
+# http://identifiers.org/reactome/R-HSA-8849085;http://pathwaycommons.org/pc2/Catalysis_858422ef1af5ef4cc2df0baf7cf5f177
+ARHGAP35	Y1105	1
