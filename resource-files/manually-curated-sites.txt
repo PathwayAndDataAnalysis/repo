@@ -86,3 +86,19 @@ NFATC1	S278	-1
 NFATC1	S237	-1
 # http://identifiers.org/reactome/R-HSA-8849085;http://pathwaycommons.org/pc2/Catalysis_858422ef1af5ef4cc2df0baf7cf5f177
 ARHGAP35	Y1105	1
+# https://www.nature.com/articles/cddis2017507
+EPHA7	Y791	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3042843/
+FYN	Y213	-1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC125747/
+GRB2	Y209	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/24751539
+VCL	Y822	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2706532/
+PTK2	Y570	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110637/
+SHC1	Y315	1
+# https://www.ncbi.nlm.nih.gov/pubmed/21169560
+TNK2	Y827	1
+# http://jcs.biologists.org/content/joces/128/16/3155.full.pdf
+CAMK1	Y363	1

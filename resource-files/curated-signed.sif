@@ -73,3 +73,18 @@ SMAD4	upregulates-expression	CDKN1A
 
 # https://www.ncbi.nlm.nih.gov/pubmed/11381116
 PLCG2	phosphorylates	PRKCD		S302;Y313
+
+# http://pubs.acs.org/doi/full/10.1021/pr7006363
+EGFR	phosphorylates	CBL	Y674;Y700
+EGFR	phosphorylates	ERRFI1	Y394;Y458
+EGFR	phosphorylates	CBLB	Y889
+EGFR	phosphorylates	SOS1	Y1065
+EGFR	phosphorylates	SOS2	Y1275
+EGFR	phosphorylates	GAB1	Y373;Y659
+EGFR	phosphorylates	TNK2	Y937;Y938
+EGFR	phosphorylates	CDK1	Y15
+EGFR	phosphorylates	FER	Y229
+EGFR	phosphorylates	ODF3L2	Y207
+EGFR	phosphorylates	HCFC1	Y1923
+EGFR	phosphorylates	IRS2	Y825
+EGFR	phosphorylates	RBM41	Y302
