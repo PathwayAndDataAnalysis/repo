@@ -102,3 +102,5 @@ SHC1	Y315	1
 TNK2	Y827	1
 # http://jcs.biologists.org/content/joces/128/16/3155.full.pdf
 CAMK1	Y363	1
+# http://www.uniprot.org/uniprot/P00533#ptm_processing
+EGFR	T693	-1
