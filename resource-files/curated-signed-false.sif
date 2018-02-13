@@ -1,14 +1,14 @@
 # from PMC1190302
 TP53	upregulates-expression	MYC
 CDK2	dephosphorylates	RB1
-CSK	phosphorylates	YES1	Y425
-CSK	phosphorylates	FGR	Y412
-CSK	phosphorylates	SRC	Y419
-CSK	phosphorylates	FYN	Y420
-CSK	phosphorylates	LYN	Y396
-CSK	phosphorylates	HCK	Y410
-CSK	phosphorylates	LCK	Y393
-CSK	phosphorylates	BLK	Y388
+CSK	phosphorylates	YES1		Y425
+CSK	phosphorylates	FGR		Y412
+CSK	phosphorylates	SRC		Y419
+CSK	phosphorylates	FYN		Y420
+CSK	phosphorylates	LYN		Y396
+CSK	phosphorylates	HCK		Y410
+CSK	phosphorylates	LCK		Y393
+CSK	phosphorylates	BLK		Y388
 # Wrong PTEN -> PIP3 edge in NCI PID
 PTEN	phosphorylates	WASF2
 PTEN	phosphorylates	ABI1
@@ -33,11 +33,11 @@ CCND1	dephosphorylates	RB1		S795
 CCND1	dephosphorylates	RB1		S795
 CDK4	dephosphorylates	RB1		S788
 CDK4	dephosphorylates	RB1		S788
-# Miss inference from NCI relation http://pathwaycommons.org/pc2/Control_ea2c65433240c436648f9f63b1633fe3
+# Wrong inference from NCI relation http://pathwaycommons.org/pc2/Control_ea2c65433240c436648f9f63b1633fe3
 GSK3A	dephosphorylates	CTNNB1
 GSK3B	dephosphorylates	CTNNB1
 AXIN1	dephosphorylates	CTNNB1
-#Miss inference from http://pathwaycommons.org/pc2/TemplateReactionRegulation_242aeac72c88f3849d048a8a21ae18a7
+#Wrong inference from http://pathwaycommons.org/pc2/TemplateReactionRegulation_242aeac72c88f3849d048a8a21ae18a7
 FOXO1	downregulates-expression	CDKN1A
 FOXO3	downregulates-expression	CDKN1A
 FOXO4	downregulates-expression	CDKN1A
@@ -46,3 +46,9 @@ SMAD4	downregulates-expression	CDKN1A
 # Wrong curation from http://pathwaycommons.org/pc2/Catalysis_91dec05bfb67c0d2276f1abaf14562fe
 MAPK1	dephosphorylates	SMAD2
 MAPK3	dephosphorylates	SMAD2
+# Wrong inference from http://pathwaycommons.org/pc2/Catalysis_7e80e029c1f44820f161459622d4abe0
+EGF	phosphorylates	ERBB2		Y877
+EGFR	phosphorylates	ERBB2		Y877
+EGF	dephosphorylates	ERBB2		Y1248;Y1112;Y1196
+PTPN18	phosphorylates	ERBB2		Y877
+EGFR	dephosphorylates	ERBB2		Y1248;Y1112;Y1196
