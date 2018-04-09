@@ -104,3 +104,5 @@ TNK2	Y827	1
 CAMK1	Y363	1
 # http://www.uniprot.org/uniprot/P00533#ptm_processing
 EGFR	T693	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/28638064
+DPYSL2	T514	-1
