@@ -106,3 +106,7 @@ CAMK1	Y363	1
 EGFR	T693	-1
 # https://www.ncbi.nlm.nih.gov/pubmed/28638064
 DPYSL2	T514	-1
+# http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071035
+SRC	Y527	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/10421574
+PKCB	S660	1
