@@ -31,6 +31,8 @@ PLCB3	S537	1
 PRKCD	S304	1
 PRKCQ	T219	1
 SYK	S297	1
+# https://www.frontiersin.org/articles/10.3389/fimmu.2012.00197/full
+PRKCQ	S685	1
 # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945138/
 ROCK1	S1333	-1
 ROCK1	T1334	-1
