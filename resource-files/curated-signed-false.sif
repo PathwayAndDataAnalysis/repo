@@ -52,3 +52,8 @@ EGFR	phosphorylates	ERBB2		Y877
 EGF	dephosphorylates	ERBB2		Y1248;Y1112;Y1196
 PTPN18	phosphorylates	ERBB2		Y877
 EGFR	dephosphorylates	ERBB2		Y1248;Y1112;Y1196
+# Wrong inference from http://pathwaycommons.org/pc2/Catalysis_1a837feab729f9d78accd49012539c7b
+MAPK1	phosphorylates	MAP2K1		S218;S222
+MAPK3	phosphorylates	MAP2K1		S218;S222
+MAPK1	phosphorylates	MAP2K2		S222;S226
+MAPK3	phosphorylates	MAP2K2		S222;S226
