@@ -3,9 +3,11 @@
   <groupId>org.panda</groupId>
   <artifactId>causalpath</artifactId>
   <versioning>
+    <release>1.0.0</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20160527183602</lastUpdated>
+    <lastUpdated>20181018161013</lastUpdated>
   </versioning>
 </metadata>
