@@ -112,6 +112,10 @@ DPYSL2	T514	-1
 SRC	Y527	-1
 # https://www.ncbi.nlm.nih.gov/pubmed/10421574
 PKCB	S660	1
+# https://www.uniprot.org/uniprot/P17252
+PRKCA	T497	1
+PRKCA	T638	1
+PRKCA	S657	1
 # https://www.ncbi.nlm.nih.gov/pubmed/20554527?dopt=Abstract
 SYK	Y630	1
 SYK	Y631	1
