@@ -116,3 +116,19 @@ PKCB	S660	1
 PRKCA	T497	1
 PRKCA	T638	1
 PRKCA	S657	1
+# https://www.ncbi.nlm.nih.gov/pubmed/20554527?dopt=Abstract
+SYK	Y630	1
+SYK	Y631	1
+# https://www.nature.com/articles/1208454
+ABL2	Y439	1
+# https://www.ncbi.nlm.nih.gov/pubmed/25445790?dopt=Abstract
+FLNA	S1084	1
+FLNA	S1459	1
+FLNA	1533	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4375489/
+ITGB1	Y783	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501490/
+MPIG6B	Y211	1
+MPIG6B	Y237	1
+# https://www.ncbi.nlm.nih.gov/pubmed/25897081?dopt=Abstract
+PAG1	Y317	1
