@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="sif">
+    <extension>
+      <renderInformation 
+        xmlns="http://www.sbml.org/sbml/level3/version1/render/version1" id="renderInformation" program-name="sbgnviz" program-version="6.0.2" background-color="#00000000">
+        <listOfColorDefinitions>
+          <colorDefinition id="color_1" value="#ffffffff"/>
+          <colorDefinition id="color_2" value="#00b414"/>
+          <colorDefinition id="color_3" value="#ffeeea"/>
+          <colorDefinition id="color_4" value="#323232"/>
+          <colorDefinition id="color_5" value="#ff7e60"/>
+          <colorDefinition id="color_6" value="#ff7354"/>
+          <colorDefinition id="color_7" value="#ff7656"/>
+          <colorDefinition id="color_8" value="#b40014"/>
+          <colorDefinition id="color_9" value="#ff7353"/>
+          <colorDefinition id="color_10" value="#ff5028"/>
+          <colorDefinition id="color_11" value="#ff5029"/>
+          <colorDefinition id="color_12" value="#ff896e"/>
+          <colorDefinition id="color_13" value="#ff7b5c"/>
+          <colorDefinition id="color_14" value="#009600"/>
+        </listOfColorDefinitions>
+        <listOfBackgroundImages/>
+        <listOfStyles>
+          <style id="nodeffffff100b4141.2511normalnormalHelvetica0001" idList="nwtN_9a96adf6-bbae-48fe-9481-938fc93f2b7e nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e">
+            <g font-size="11" font-family="Helvetica" font-weight="normal" font-style="normal" font-color="#000" stroke="color_2" stroke-width="1.25" fill="color_1" background-image-opacity="1" background-opacity="1"/>
+          </style>
+          <style id="infoboxffeeea00b414111normalnormalArial0f0f0fstadium" idList="nwtUOI_cf02f3d2-425e-4973-b5e5-2bea9adb1768 nwtUOI_397dc136-c51c-4d7a-9a34-4493bd208849">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_2" stroke-width="1" fill="color_3" shape-name="stadium"/>
+          </style>
+          <style id="nodeffffff13232321.2511normalnormalHelvetica0001" idList="nwtN_abd24ec7-2a65-452a-bf15-0c503973f463 nwtN_e269aedd-95f9-4524-b2df-f017ceab46eb nwtN_0c81797d-50a4-4d91-9457-8b59b6a72bbc nwtN_cf715650-9926-47b5-ab0c-5f65835a6091 nwtN_10cdd474-c117-429b-85b0-a762faf26f72 nwtN_26e4280b-be16-4b0b-a9c1-4fcdc93e4094 nwtN_ab4669cf-446f-4661-ac24-ef61a809208e">
+            <g font-size="11" font-family="Helvetica" font-weight="normal" font-style="normal" font-color="#000" stroke="color_4" stroke-width="1.25" fill="color_1" background-image-opacity="1" background-opacity="1"/>
+          </style>
+          <style id="infoboxff7e60323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_4a1727d7-54fa-438c-af1f-46ac07bebfa7">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_5" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff7354323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_4e2d983c-1d64-4f68-954f-9a9e0c988b43">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_6" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff7656b40014111normalnormalArial0f0f0fstadium" idList="nwtUOI_16af709c-2fe9-4390-9679-f2bf5a8e8971">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_8" stroke-width="1" fill="color_7" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff7353323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_a68c8da1-ff9f-46bc-8a1a-411df4f70325">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_9" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff5028323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_756dc976-3369-4da3-9d63-78de53649f42 nwtUOI_06f4a56b-1430-4633-9ed8-c947340712a4">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_10" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff5029323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_11c31a2b-aeee-41b1-99d8-5f2253a605b2">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_11" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff896e323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_b643510f-7887-4c86-b06a-fb29e6ff5030">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_12" shape-name="stadium"/>
+          </style>
+          <style id="infoboxff7b5c323232111normalnormalArial0f0f0fstadium" idList="nwtUOI_3ece271c-5454-4493-8c29-3dfa8d7c3ff0">
+            <g font-size="11" font-family="Arial" font-weight="normal" font-style="normal" font-color="#0f0f0f" stroke="color_4" stroke-width="1" fill="color_13" shape-name="stadium"/>
+          </style>
+          <style id="edge62392D1.25" idList="nwtE_3a8c2f2c-6318-477c-a3bb-dead8437e7ef nwtE_7f553975-d5d6-4534-a4ef-14f89e530699 nwtE_334d7c42-97ce-4ad2-a1d3-465c989cce05 nwtE_065c3388-8b4c-474d-bea4-5eca5a51ca3b nwtE_98c28e6b-e54e-4096-9589-6783fef3f1e8 nwtE_7aac39a0-000f-419a-a50d-d49658fba25f nwtE_5f1bdf5e-6705-4f2a-927b-28717f520f3f nwtE_9bf7856b-bc95-440a-8e57-da21325b730b">
+            <g stroke="color_14" stroke-width="1.25"/>
+          </style>
+        </listOfStyles>
+      </renderInformation>
+      <mapProperties>
+        <compoundPadding>0</compoundPadding>
+        <extraCompartmentPadding>14</extraCompartmentPadding>
+        <extraComplexPadding>10</extraComplexPadding>
+        <arrowScale>1.25</arrowScale>
+        <showComplexName>true</showComplexName>
+        <dynamicLabelSize>large</dynamicLabelSize>
+        <inferNestingOnLoad>false</inferNestingOnLoad>
+        <fitLabelsToNodes>false</fitLabelsToNodes>
+        <fitLabelsToInfoboxes>false</fitLabelsToInfoboxes>
+        <recalculateLayoutOnComplexityManagement>true</recalculateLayoutOnComplexityManagement>
+        <rearrangeOnComplexityManagement>true</rearrangeOnComplexityManagement>
+        <animateOnDrawingChanges>true</animateOnDrawingChanges>
+        <adjustNodeLabelFontSizeAutomatically>1</adjustNodeLabelFontSizeAutomatically>
+        <enablePorts>true</enablePorts>
+        <enableSIFTopologyGrouping>true</enableSIFTopologyGrouping>
+        <allowCompoundNodeResize>true</allowCompoundNodeResize>
+        <mapColorScheme>black_white</mapColorScheme>
+        <mapColorSchemeStyle>solid</mapColorSchemeStyle>
+        <mapName>Pathway #sbgn-network-container-0</mapName>
+        <mapDescription/>
+        <highlightColor>#0B9BCD</highlightColor>
+        <extraHighlightThickness>2</extraHighlightThickness>
+      </mapProperties>
+    </extension>
+    <glyph id="nwtN_9a96adf6-bbae-48fe-9481-938fc93f2b7e" class="SIF macromolecule">
+      <label text="ILK"/>
+      <bbox x="445.39785989746656" y="203.68896639679406" w="32.5146484375" h="30"/>
+      <glyph id="nwtUOI_cf02f3d2-425e-4973-b5e5-2bea9adb1768" class="unit of information">
+        <label text="a"/>
+        <bbox x="450.39785989746656" y="196.18896639679406" w="15" h="15"/>
+        <tooltip>ILK-active-by-network-sig, 1.0</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" class="SIF macromolecule">
+      <label text="RPS6KA3"/>
+      <bbox x="272.00698127915285" y="315.5288907899495" w="77.53662109375" h="30"/>
+      <glyph id="nwtUOI_397dc136-c51c-4d7a-9a34-4493bd208849" class="unit of information">
+        <label text="a"/>
+        <bbox x="277.00698127915285" y="308.0288907899495" w="15" h="15"/>
+        <tooltip>RPS6KA3-active-by-network-sig, 1.0</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_abd24ec7-2a65-452a-bf15-0c503973f463" class="SIF macromolecule">
+      <label text="CFL1"/>
+      <bbox x="418.37154683612846" y="77.875" w="46.6796875" h="30"/>
+      <glyph id="nwtUOI_4a1727d7-54fa-438c-af1f-46ac07bebfa7" class="unit of information">
+        <label text="p"/>
+        <bbox x="423.37154683612846" y="70.375" w="15" h="15"/>
+        <tooltip>sp_P23528_COF1_HUMAN_S3_M.AS*GVAVSDGVIK.V, 7.37775083259507</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_e269aedd-95f9-4524-b2df-f017ceab46eb" class="SIF macromolecule">
+      <label text="HMGN1"/>
+      <bbox x="112.04492187500006" y="331.9279583315165" w="64.169921875" h="30"/>
+      <glyph id="nwtUOI_4e2d983c-1d64-4f68-954f-9a9e0c988b43" class="unit of information">
+        <label text="p"/>
+        <bbox x="117.04492187500006" y="324.4279583315165" w="15" h="15"/>
+        <tooltip>sp_P05114_HMGN1_HUMAN_S25_R.SARLS*AKPPAK.V, 7.974962207244851</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_0c81797d-50a4-4d91-9457-8b59b6a72bbc" class="SIF macromolecule">
+      <label text="GSK3B"/>
+      <bbox x="431.4471930776181" y="315.6051933345211" w="60.0244140625" h="30"/>
+      <glyph id="nwtUOI_16af709c-2fe9-4390-9679-f2bf5a8e8971" class="unit of information">
+        <label text="p"/>
+        <bbox x="436.4471930776181" y="308.1051933345211" w="15" h="15"/>
+        <tooltip>sp_P49841_GSK3B_HUMAN_S9_R.TTS*FAESCK.P, 7.84860609277451</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_cf715650-9926-47b5-ab0c-5f65835a6091" class="SIF macromolecule">
+      <label text="PFKFB2"/>
+      <bbox x="44.62500000000006" y="298.6779583315165" w="66.68212890625" h="30"/>
+      <glyph id="nwtUOI_a68c8da1-ff9f-46bc-8a1a-411df4f70325" class="unit of information">
+        <label text="p"/>
+        <bbox x="49.62500000000006" y="291.1779583315165" w="15" h="15"/>
+        <tooltip>sp_O60825_F262_HUMAN_S466_R.RNS*FTPLSSSNTIR.R, 7.979926368601394</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_10cdd474-c117-429b-85b0-a762faf26f72" class="SIF macromolecule">
+      <label text="PPP1R12A"/>
+      <bbox x="418.37154683612846" y="44.625" w="85.87890625" h="30"/>
+      <glyph id="nwtUOI_756dc976-3369-4da3-9d63-78de53649f42" class="unit of information">
+        <label text="p"/>
+        <bbox x="423.37154683612846" y="37.125" w="15" h="15"/>
+        <tooltip>sp_O14974_MYPT1_HUMAN_T696_R.RST*QGVTLTDLQEAEK.T, 10.17852472158373</tooltip>
+      </glyph>
+      <glyph id="nwtUOI_11c31a2b-aeee-41b1-99d8-5f2253a605b2" class="unit of information">
+        <label text="p"/>
+        <bbox x="423.37154683612846" y="67.125" w="15" h="15"/>
+        <tooltip>tr_H0YHI8_H0YHI8_HUMAN_T696_R.RST*QGVTLTDLQEAEK.T, 9.973353103248972</tooltip>
+      </glyph>
+      <glyph id="nwtUOI_06f4a56b-1430-4633-9ed8-c947340712a4" class="unit of information">
+        <label text="p"/>
+        <bbox x="443.37154683612846" y="37.125" w="15" h="15"/>
+        <tooltip>tr_F8VZN8_F8VZN8_HUMAN_T696_R.RST*QGVTLTDLQEAEK.T, 10.376585645333524</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_26e4280b-be16-4b0b-a9c1-4fcdc93e4094" class="SIF macromolecule">
+      <label text="RPS6"/>
+      <bbox x="114.55712890625006" y="298.6779583315165" w="49.1845703125" h="30"/>
+      <glyph id="nwtUOI_b643510f-7887-4c86-b06a-fb29e6ff5030" class="unit of information">
+        <label text="p"/>
+        <bbox x="119.55712890625006" y="291.1779583315165" w="15" h="15"/>
+        <tooltip>tr_A2A3R5_A2A3R5_HUMAN_S235_S236_R.RLS*S*LRASTSK.S, 6.7347834231175625</tooltip>
+      </glyph>
+    </glyph>
+    <glyph id="nwtN_ab4669cf-446f-4661-ac24-ef61a809208e" class="SIF macromolecule">
+      <label text="HMGN2"/>
+      <bbox x="44.62500000000006" y="331.9279583315165" w="64.169921875" h="30"/>
+      <glyph id="nwtUOI_3ece271c-5454-4493-8c29-3dfa8d7c3ff0" class="unit of information">
+        <label text="p"/>
+        <bbox x="49.62500000000006" y="324.4279583315165" w="15" h="15"/>
+        <tooltip>sp_P05204_HMGN2_HUMAN_S25_R.S*ARLSAKPAPPKPEPK.P, 7.569166250021551</tooltip>
+      </glyph>
+    </glyph>
+    <arc id="nwtE_3a8c2f2c-6318-477c-a3bb-dead8437e7ef" class="phosphorylates" source="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" target="nwtN_0c81797d-50a4-4d91-9457-8b59b6a72bbc">
+      <start x="350.16860237290285" y="330.5488385460074"/>
+      <end x="427.69719347826623" y="330.588097024196"/>
+      <pcIDs>http://pathwaycommons.org/pc2/BiochemicalReaction_752e346d2c293f5b71c3a2bf5c7c1ca3;http://pathwaycommons.org/pc2/Catalysis_58afe8d57dabee901acf788802ec7af4</pcIDs>
+      <siteLocations>S9</siteLocations>
+    </arc>
+    <arc id="nwtE_7f553975-d5d6-4534-a4ef-14f89e530699" class="phosphorylates" source="nwtN_9a96adf6-bbae-48fe-9481-938fc93f2b7e" target="nwtN_0c81797d-50a4-4d91-9457-8b59b6a72bbc">
+      <start x="461.62785005395835" y="234.31396639679406"/>
+      <end x="461.4922009752129" y="311.85519811627626"/>
+      <pcIDs>http://pathwaycommons.org/pc2/Catalysis_1e7fe9eb7106a8f9a97cfe694bf8705d;http://pathwaycommons.org/pc2/BiochemicalReaction_c8da39e55a44d31fb6353195d8e40479;http://pathwaycommons.org/pc2/Catalysis_877e0285b03a40722fd1365612e8812f;http://pathwaycommons.org/pc2/BiochemicalReaction_37b7ca8ffb02eca9a28e8766ec4b46bb</pcIDs>
+      <siteLocations>S9</siteLocations>
+    </arc>
+    <arc id="nwtE_334d7c42-97ce-4ad2-a1d3-465c989cce05" class="phosphorylates" source="nwtN_9a96adf6-bbae-48fe-9481-938fc93f2b7e" target="nwtN_abd24ec7-2a65-452a-bf15-0c503973f463">
+      <start/>
+      <end/>
+    </arc>
+    <arc id="nwtE_065c3388-8b4c-474d-bea4-5eca5a51ca3b" class="phosphorylates" source="nwtN_9a96adf6-bbae-48fe-9481-938fc93f2b7e" target="nwtN_10cdd474-c117-429b-85b0-a762faf26f72">
+      <start/>
+      <end/>
+    </arc>
+    <arc id="nwtE_98c28e6b-e54e-4096-9589-6783fef3f1e8" class="phosphorylates" source="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" target="nwtN_26e4280b-be16-4b0b-a9c1-4fcdc93e4094">
+      <start/>
+      <end/>
+    </arc>
+    <arc id="nwtE_7aac39a0-000f-419a-a50d-d49658fba25f" class="phosphorylates" source="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" target="nwtN_ab4669cf-446f-4661-ac24-ef61a809208e">
+      <start/>
+      <end/>
+    </arc>
+    <arc id="nwtE_5f1bdf5e-6705-4f2a-927b-28717f520f3f" class="phosphorylates" source="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" target="nwtN_cf715650-9926-47b5-ab0c-5f65835a6091">
+      <start/>
+      <end/>
+    </arc>
+    <arc id="nwtE_9bf7856b-bc95-440a-8e57-da21325b730b" class="phosphorylates" source="nwtN_c8c4e404-7a12-43c8-8b60-e64d73252f3e" target="nwtN_e269aedd-95f9-4524-b2df-f017ceab46eb">
+      <start/>
+      <end/>
+    </arc>
+  </map>
+</sbgn>
