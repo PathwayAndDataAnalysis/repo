@@ -132,3 +132,5 @@ MPIG6B	Y211	1
 MPIG6B	Y237	1
 # https://www.ncbi.nlm.nih.gov/pubmed/25897081?dopt=Abstract
 PAG1	Y317	1
+# https://pubmed.ncbi.nlm.nih.gov/19487463/
+MTOR	S1261	1
