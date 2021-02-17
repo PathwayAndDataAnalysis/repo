@@ -62,7 +62,7 @@ SGK1	phosphorylates	FOXO3		T32;S253;S315
 SGK1	phosphorylates	FOXO4		T32;S197;S262
 
 # From PMC1190302
-TP53	downregulates-expression	MYC
+TP53	downregulates-expression	MYC	PMID:16107691
 
 # Derived from the mis-inference from http://pathwaycommons.org/pc2/TemplateReactionRegulation_242aeac72c88f3849d048a8a21ae18a7
 FOXO1	upregulates-expression	CDKN1A
@@ -72,19 +72,24 @@ SMAD2	upregulates-expression	CDKN1A
 SMAD4	upregulates-expression	CDKN1A
 
 # https://www.ncbi.nlm.nih.gov/pubmed/11381116
-PLCG2	phosphorylates	PRKCD		S302;Y313
+PLCG2	phosphorylates	PRKCD	PMID:11381116	S302;Y313
 
 # http://pubs.acs.org/doi/full/10.1021/pr7006363
-EGFR	phosphorylates	CBL	Y674;Y700
-EGFR	phosphorylates	ERRFI1	Y394;Y458
-EGFR	phosphorylates	CBLB	Y889
-EGFR	phosphorylates	SOS1	Y1065
-EGFR	phosphorylates	SOS2	Y1275
-EGFR	phosphorylates	GAB1	Y373;Y659
-EGFR	phosphorylates	TNK2	Y937;Y938
-EGFR	phosphorylates	CDK1	Y15
-EGFR	phosphorylates	FER	Y229
-EGFR	phosphorylates	ODF3L2	Y207
-EGFR	phosphorylates	HCFC1	Y1923
-EGFR	phosphorylates	IRS2	Y825
-EGFR	phosphorylates	RBM41	Y302
+EGFR	phosphorylates	CBL	PMID:18271526	Y674;Y700
+EGFR	phosphorylates	ERRFI1	PMID:18271526	Y394;Y458
+EGFR	phosphorylates	CBLB	PMID:18271526	Y889
+EGFR	phosphorylates	SOS1	PMID:18271526	Y1065
+EGFR	phosphorylates	SOS2	PMID:18271526	Y1275
+EGFR	phosphorylates	GAB1	PMID:18271526	Y373;Y659
+EGFR	phosphorylates	TNK2	PMID:18271526	Y937;Y938
+EGFR	phosphorylates	CDK1	PMID:18271526	Y15
+EGFR	phosphorylates	FER	PMID:18271526	Y229
+EGFR	phosphorylates	ODF3L2	PMID:18271526	Y207
+EGFR	phosphorylates	HCFC1	PMID:18271526	Y1923
+EGFR	phosphorylates	IRS2	PMID:18271526	Y825
+EGFR	phosphorylates	RBM41	PMID:18271526	Y302
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370744/
+PRKACA	phosphorylates	GYS1	PMID:25527037	S8;S698;S710
+CSNK1A1	phosphorylates	GYS1	PMID:25527037	S11
+CSNK2A1	phosphorylates	GYS1	PMID:25527037	S657
+GSK3A	phosphorylates	GYS1	PMID:25527037	S641;S645;S649;S653
