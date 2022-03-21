@@ -57,3 +57,8 @@ MAPK1	phosphorylates	MAP2K1		S218;S222
 MAPK3	phosphorylates	MAP2K1		S218;S222
 MAPK1	phosphorylates	MAP2K2		S222;S226
 MAPK3	phosphorylates	MAP2K2		S222;S226
+# Wrong infernce from http://pathwaycommons.org/pc12/Control_f50fe5026cf9c556994a2c32cdffc5d2
+IL6	dephosphorylates	STAT3		Y705;S727
+IL6ST	dephosphorylates	STAT3		Y705;S727
+IL6	dephosphorylates	STAT1		Y701
+IL6ST	dephosphorylates	STAT1		Y701
