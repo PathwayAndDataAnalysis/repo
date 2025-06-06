@@ -1,0 +1,41 @@
+Gene Symbol (HGNC)	Classification in Lung Cancer	Nature of Causal Link
+EGFR (HGNC:3236)	Oncogene	Activating mutations (e.g., exon 18, 19 deletions, L858R, T790M) drive cell proliferation, differentiation, angiogenesis, invasion, and metastasis via RTK pathways.
+KRAS (HGNC:6407)	Oncogene	Point mutations (e.g., G12C, G12V) lead to constitutive activation of RAS/RAF/ERK pathway, promoting uncontrolled cell growth.
+ALK (HGNC:33775)	Oncogene	Chromosomal rearrangements (fusions, e.g., EML4-ALK) create constitutively active kinase, driving proliferation via RAS/RAF/MEK, PI3K/AKT/mTOR, JAK/STAT pathways.
+ROS1 (HGNC:10261)	Oncogene	Chromosomal rearrangements (fusions, e.g., SDC4, GOPC, SLC34A2, CD74) promote abnormal cell growth and cancer via JAK-STAT3, RAS/MEK/ERK, PI3K/AKT pathways.
+MET (HGNC:7029)	Oncogene	Amplification or exon 14-skipping mutations lead to sustained activation of downstream signaling pathways, promoting proliferation, survival, invasion, and metastasis.
+RET (HGNC:9967)	Oncogene	Chromosomal rearrangements (fusions, e.g., CCDC6, KIF5B) create constitutively active kinase, driving uncontrolled cell growth via JAK-STAT3, RAS/MEK/ERK, PI3K/AKT pathways.
+BRAF (HGNC:1097)	Oncogene	Mutations (e.g., V600E) lead to constitutive activation of MAPK pathway, regulating cell proliferation and survival.
+NTRK1 (Family)	Oncogene	Gene fusions lead to constitutively active TRK kinase proteins that drive tumor growth.
+NTRK2 (Family)	Oncogene	Gene fusions lead to constitutively active TRK kinase proteins that drive tumor growth.
+NTRK3 (Family)	Oncogene	Gene fusions lead to constitutively active TRK kinase proteins that drive tumor growth.
+ERBB2 (HGNC:3430)	Oncogene	Mutations (e.g., exon 20 insertions) and overexpression lead to constitutive receptor activation, contributing to tumor proliferation and migration.
+DDR2 (HGNC:2731)	Oncogene	Mutations contribute to cell proliferation, migration, and survival.
+FGFR1 (HGNC:3688)	Oncogene	Amplification leads to downstream signaling via PI3K-Akt and RAS-MEK-MAPK, promoting tumor growth and survival.
+PIK3CA (HGNC:8975)	Oncogene	Activating mutations/amplifications heighten lipid kinase activity and constitutive PI3K-AKT signaling, promoting cell proliferation and survival.
+FLT3 (HGNC:3765)	Oncogene	Mutations (e.g., ITD) are driver mutations associated with poor prognosis and contribute to uncontrolled cell growth.
+ERBB4 (HGNC:3432)	Oncogene	Mutations contribute to cancer development.
+KDR (HGNC:6307)	Oncogene	Mutations influence tumor growth by mediating endothelial proliferation, survival, and migration.
+CSF1R (HGNC:2433)	Oncogene	Mutations contribute to tumor development.
+H3F3A (HGNC:4764)	Oncogene	Mutations/overexpression relate to lung cancer progression, promoting cell migration and altering epigenetic regulation.
+GPR87 (HGNC:4538)	Oncogene	Overexpression promotes growth and metastasis; knockdown sensitizes cells to DNA damage, indicating role in survival.
+PDGFRA (HGNC:8779)	Oncogene	Amplification influences tumor progression.
+MDM2 (HGNC:6973)	Oncogene	Amplification/overexpression leads to inactivation of TP53, removing a critical brake on cell proliferation.
+NRG1 (HGNC:7996)	Oncogene	Fusions are actionable genomic alterations driving NSCLC tumorigenesis.
+TP53 (HGNC:11998)	Tumor Suppressor Gene	Mutations/inactivation remove control over cell cycle, DNA repair, and apoptosis; mutant p53 can also gain pro-oncogenic function.
+CDKN2A (HGNC:1787)	Tumor Suppressor Gene	Inactivation (deletions, methylation, mutations) removes cell cycle control, leading to uncontrolled proliferation.
+STK11 (HGNC:11389)	Tumor Suppressor Gene	Inactivation (bi-allelic mutations) disrupts metabolism, proliferation, and immune regulation, leading to aggressive, resistant tumors.
+NF1 (HGNC:7765)	Tumor Suppressor Gene	Mutations lead to reduced neurofibromin, releasing RAS signaling and promoting oncogenic activity.
+PTEN (HGNC:9588)	Tumor Suppressor Gene	Mutations/inactivation remove negative regulation of PI3K/AKT/mTOR pathway, promoting cell proliferation and survival.
+CHEK2 (HGNC:16627)	Tumor Suppressor Gene	Germline mutations impair DNA damage response and genome stability, increasing cancer risk.
+ATM (HGNC:795)	Tumor Suppressor Gene	Germline mutations impair DNA damage response and genome stability, increasing cancer risk.
+BRCA1 (HGNC:1100)	Tumor Suppressor Gene	Germline mutations impair DNA repair and cell cycle checkpoints, increasing cancer risk.
+APC (HGNC:358)	Tumor Suppressor Gene	Germline mutations/inactivation via methylation disrupt Wnt signaling, leading to uncontrolled cell growth.
+PALB2 (HGNC:26144)	Tumor Suppressor Gene	Germline mutations impair DNA repair by affecting BRCA2 function, increasing cancer risk.
+RASSF1A (HGNC:9892)	Tumor Suppressor Gene	Inactivation via promoter hypermethylation increases cell proliferation.
+RARB (HGNC:9865)	Tumor Suppressor Gene	Inactivation via promoter hypermethylation removes growth-limiting functions.
+CDH1 (HGNC:1748)	Tumor Suppressor Gene	Inactivation/loss of function via methylation increases proliferation, invasion, and metastasis.
+CDH13 (HGNC:1753)	Tumor Suppressor Gene	Hypermethylation contributes to cancer progression by removing its tumor suppressive functions.
+DAPK1 (HGNC:2674)	Tumor Suppressor Gene	Inactivation via promoter hypermethylation removes pro-apoptotic mechanisms, allowing cancer cells to evade death.
+FHIT (HGNC:3701)	Tumor Suppressor Gene	Inactivation via methylation or deletion removes tumor suppressive function.
+MGMT (HGNC:7059)	Tumor Suppressor Gene	Inactivation via promoter hypermethylation impairs DNA repair, leading to genomic instability.
