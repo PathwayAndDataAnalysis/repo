@@ -352,3 +352,26 @@ NFE2L2	upregulates-expression	SLC39A8
 NFE2L2	upregulates-expression	SLC39A5
 NFE2L2	upregulates-expression	SLC39A13
 NFE2L2	upregulates-expression	SLC39A14
+
+# From Rehan Akbani - expert curated
+TP53	upregulates-expression	CYFIP2
+TP53	downregulates-expression	TOP2A
+TP53	upregulates-expression	GLS2
+TP53	upregulates-expression	EDA2R
+TP53	downregulates-expression	AURKA
+TP53	downregulates-expression	PTTG1
+TP53	upregulates-expression	ZMAT3
+TP53	downregulates-expression	STMN1
+TP53	upregulates-expression	PHLDA3
+TP53	downregulates-expression	ATAD2
+TP53	downregulates-expression	PLK1
+TP53	upregulates-expression	AEN
+TP53	downregulates-expression	CCNA2
+TP53	downregulates-expression	ANLN
+TP53	downregulates-expression	CENPE
+TP53	downregulates-expression	RAD51
+TP53	downregulates-expression	TFDP1
+TP53	downregulates-expression	PTCHD4
+TP53	downregulates-expression	MCM3
+TP53	downregulates-expression	HDGF
+TP53	upregulates-expression	SPATA18
