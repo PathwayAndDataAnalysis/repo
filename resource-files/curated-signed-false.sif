@@ -62,3 +62,5 @@ IL6	dephosphorylates	STAT3		Y705;S727
 IL6ST	dephosphorylates	STAT3		Y705;S727
 IL6	dephosphorylates	STAT1		Y701
 IL6ST	dephosphorylates	STAT1		Y701
+# False interpretation of PMID:17106239
+BRCA1	downregulates-expression	RBL2
