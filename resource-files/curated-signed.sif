@@ -375,3 +375,7 @@ TP53	downregulates-expression	PTCHD4
 TP53	downregulates-expression	MCM3
 TP53	downregulates-expression	HDGF
 TP53	upregulates-expression	SPATA18
+
+#From https://doi.org/10.1016/j.cmet.2023.01.012
+NFE2L2	consumes	CHEBI:15846
+NFE2L2	produces	CHEBI:16908
